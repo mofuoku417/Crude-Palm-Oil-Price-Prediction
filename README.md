@@ -1,1 +1,1 @@
-Predict Monthly Crude Palm Oil Prices using: Holt-Winters, ARIMA, MLP Regression, and LSTM models.
+Objective: Apply deep learning approach to predict monthly crude palm oil price specifically using Multilayer Perceptron (MLP), Long Short Term Memory (LSTM), and Simple Recurrent Neural Network (RNN) and compare thier performance to SARIMA model.
